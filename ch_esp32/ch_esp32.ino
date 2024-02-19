@@ -261,14 +261,14 @@ void loopCore0(void* args) {
       */
 
       // HTTP GET
-      Serial.println("Making request: " + url);
+      Serial.println("Making request. . .");
       http.begin(url);
       http.setFollowRedirects(HTTPC_STRICT_FOLLOW_REDIRECTS);  // The request often sends me through multiple redirects, drastically slowing things down. Idk why.
       unsigned int responseCode = http.GET();
       String str = http.getString();
       http.end();
-      Serial.print("HTTP GET received:    ");
-      Serial.println(str);
+      Serial.println("HTTP GET received.");
+      // Serial.println(str);
 
       // Check for valid GET
       if (responseCode != 200) {
