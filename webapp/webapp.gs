@@ -1,13 +1,7 @@
 /*
 George Lyu
-georgemylyu@gmail.com
 gml8.iotlamps@gmail.com
 09/13/2023
-
-Companion Halo Webapp
-
-With Google Sheet https://docs.google.com/spreadsheets/d/1u7ttpf7Z2ptiPnrnRCzgZZ_VvdSA0b_RN__6Law3xwg
-With ESP32 MCU file Companion_Halo_XYZ.ino
 
 Handles the HTTP GET requests from ESP32 lamps to synchronize their color across WiFi.
 
