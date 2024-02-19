@@ -1,7 +1,7 @@
 # Companion Halo
 Companion Halo connects you with friends and family. All networked devices synchronize colors; change their color to signal to your loved ones that you are thinking about them.
 
-Each Companion Halo has been and handcrafted by George Lyu with his utmost attention and affection.
+Each Companion Halo has been overengineered and handcrafted by George Lyu with his utmost attention and affection.
 
 ## Acknowledgements
 I give my deepest gratitude to Josh S, Ivana H, Zach X, Iris W, Brandon C, and the Oshman Engineering Design Kitchen for technical and emotional support through this project.
